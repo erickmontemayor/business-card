@@ -17,3 +17,17 @@
 .footer span {
   font-size: 14px;
 }
+
+body {
+  background-color: darkseagreen;
+  margin-top: 10em;
+}
+
+.card{
+  display: block;
+  background-color: white;
+  width: 40em;
+  height: 25em;
+  margin: auto;
+  border-radius: 1em;
+}
